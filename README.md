@@ -1,6 +1,6 @@
 # logstash_emu
 Logstash simplest emulator.
-Run logstash_emu if your app requires it, but you need some lightweight emulation.
+Run logstash_emu if your app requires logstash, but you need some lightweight emulation or for the local development.
 
 ## installation
 
