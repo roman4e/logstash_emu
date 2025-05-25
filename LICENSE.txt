@@ -1,0 +1,31 @@
+SOFTWARE LICENSE AGREEMENT
+Copyright (C) 2025 UARCH/Roman4e. All rights reserved.
+
+This license grants rights and imposes limitations on the use, copying, modification, distribution, and access to this software (“Software”).
+
+1. Permitted Use
+You are permitted to:
+
+Download, install, use, copy, modify, and integrate the Software into your own projects, including commercial ones.
+
+Use the Software for your own internal company purposes or personal projects.
+
+2. Prohibited Use
+Without the express written permission of the copyright holder, you are not allowed to:
+
+Offer the Software or any modified or unmodified version of it as a service (Software as a Service, SaaS).
+
+Provide a hosted version or service based on the Software that is accessible to third parties, either for free or for a fee, similar to services like Jira, GitHub, Trello, or similar platforms.
+
+3. Distribution and Modification
+You may freely distribute and modify the source code for your own purposes and projects. Any public redistribution must include this license file and must not present the Software or any derivative work as an original or independent product not based on this Software.
+You are expressly prohibited from forking, rebranding, or publicly publishing the Software (or a modified version) as your own framework, project, or platform.
+
+4. No Warranty
+The Software is provided "as is", without any warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
+
+5. Limitation of Liability
+In no event shall the copyright holder be liable for any direct, indirect, special, incidental, or consequential damages arising from the use of this Software.
+
+6. Termination
+Any violation of these terms will automatically terminate the license granted under this agreement.
